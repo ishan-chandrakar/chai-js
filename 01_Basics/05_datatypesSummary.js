@@ -32,3 +32,9 @@ console.log(typeof obj);
 //  Arrays  =>  object
 //  Function  =>  function
 //  Object  =>  object
+
+
+//   Stack => Primitive => call by value
+//   Heap => Non-primitive => call by reference
+
+//  SP HN

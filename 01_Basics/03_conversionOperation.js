@@ -38,5 +38,7 @@ let str3 = str1+str2
 // prefix => update before operation
 // postfix => update after operation
 let counter = 1
+console.log(counter++);
+
 console.log(++counter);
 
